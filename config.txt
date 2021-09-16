@@ -1,3 +1,1 @@
-token = ODg4MDAzMDU0MjIwMjE4Mzg4.YUMXSg.ZZqk0fD6pS4U1byAbaNpjB9Lcn8
-owner = 685090143455019060
-prefix = "!"
+
